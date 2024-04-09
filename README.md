@@ -1,28 +1,37 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+ Bitcoin Ticker
+
+The Bitcoin Ticker is a cryptocurrency price checking app built using Flutter. This project serves as a practical example to demonstrate various Flutter concepts and features, including UI design with Material and Cupertino widgets, working with APIs, and platform-specific UI customization.
+
+Key Features:
+
+- Crypto Price Monitoring: Track real-time prices of Bitcoin and other cryptocurrencies.
+- DropdownButton Widget: Utilize the Material Design DropdownButton widget to select different cryptocurrencies for price checking.
+- Platform Detection: Customize the user interface based on the platform (Android or iOS) using Cupertino widgets for iOS-style design.
+- API Integration: Retrieve cryptocurrency price data from a public API to display accurate and up-to-date information.
+
+### Technologies and Concepts Covered:
+
+- Flutter SDK
+- Material Design Widgets
+- Cupertino Widgets
+- HTTP Requests for API integration
+- Dart programming language
+- Platform-specific UI customization
+- Iteration using Dart `for` and `for-in` loops
+ How to Use:
+
+1. Clone the repository to your local machine.
+2. Open the project in a Flutter-compatible IDE (e.g., Android Studio, VS Code).
+3. Ensure Flutter SDK is installed and set up.
+4. Run the app on an emulator or physical device.
 
 
-# Bitcoin Ticker 🤑
 
-## Our Goal
+Acknowledgements:
 
-The objective of this tutorial is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
-
-
-## What you will create
-
-We’re going to make a crypto currency price checking app. By the end of the module, you'll be able to monitor your bitcoin investents on the move!
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
-
-## What you will learn
-
-- How to use the DropdownButton Widget from Material design.
-- How to loop through code using Dart for and for-in loops.
-- How to use Cupertino Widgets in your app.
-- How to check the platform your app is being run on to customise the UI for that platform.
-- Revise previous concepts by completing the challenges.
+-This project was created as part of a Flutter development course.
 
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+# bitcoin-ticker
+# bitcoin-ticker
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
