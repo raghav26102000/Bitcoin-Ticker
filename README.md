@@ -1,4 +1,4 @@
- Bitcoin Ticker
+# bitcoin-ticker
 
 The Bitcoin Ticker is a cryptocurrency price checking app built using Flutter. This project serves as a practical example to demonstrate various Flutter concepts and features, including UI design with Material and Cupertino widgets, working with APIs, and platform-specific UI customization.
 
@@ -32,6 +32,6 @@ Acknowledgements:
 -This project was created as part of a Flutter development course.
 
 
-# bitcoin-ticker
-# bitcoin-ticker
+
+
 
